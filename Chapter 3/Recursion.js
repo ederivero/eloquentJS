@@ -11,4 +11,3 @@ function isEven(number) {
         return '??'
     }
 }
-console.log(isEven(-5))
