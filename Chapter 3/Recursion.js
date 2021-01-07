@@ -7,7 +7,7 @@ function isEven(number) {
         } else {
             return isEven(number - 2);
         }
-    }else{
+    } else {
         return '??'
     }
 }
